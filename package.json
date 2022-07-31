@@ -1,0 +1,25 @@
+{
+  "name": "amazon_scrapper_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bright-ship-it/amazon_scrapper_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bright-ship-it/amazon_scrapper_api/issues"
+  },
+  "homepage": "https://github.com/Bright-ship-it/amazon_scrapper_api#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
